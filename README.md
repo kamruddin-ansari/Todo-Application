@@ -1,4 +1,4 @@
-# TOdo Application
+# Todo Application
 
 The TOdo Application is a simple and intuitive tool designed to help users manage their tasks efficiently. It supports Create, Read, Update, and Delete (CRUD) operations, allowing you to add, view, edit, and delete tasks with ease.
 
